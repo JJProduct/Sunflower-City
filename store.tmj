@@ -1437,6 +1437,28 @@
                  "width":190,
                  "x":593,
                  "y":803.249833333333
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":103,
+                 "name":"phrase07",
+                 "rotation":0,
+                 "visible":true,
+                 "width":97.5,
+                 "x":768.5,
+                 "y":770.0835
+                }, 
+                {
+                 "class":"",
+                 "height":59.8336,
+                 "id":104,
+                 "name":"phrase07Popup",
+                 "rotation":0,
+                 "visible":true,
+                 "width":190,
+                 "x":723,
+                 "y":677.9165
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1507,7 +1529,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":103,
+ "nextobjectid":105,
  "orientation":"orthogonal",
  "properties":[
         {

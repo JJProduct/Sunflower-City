@@ -17,19 +17,19 @@ WA.onInit().then(() => {
 
 
     WA.room.area.onEnter('phrase01').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase01Popup", "Oh no... I don't have enough money to buy fresh fish", []);
+        currentPopup = WA.ui.openPopup("phrase01Popup", "Hi", []);
     })
 
     WA.room.area.onLeave('phrase01').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase02').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi youngster... Can you help auntie reach for the soup? Auntie cannot reach...", []);
+        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi youngster", []);
     })
 
     WA.room.area.onLeave('phrase02').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase03').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase03Popup", "Hmmm what meat should I get?", []);
+        currentPopup = WA.ui.openPopup("phrase03Popup", "Hmmm", []);
     })
 
     WA.room.area.onLeave('phrase03').subscribe(closePopup);
