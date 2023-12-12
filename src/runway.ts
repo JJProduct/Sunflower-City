@@ -17,13 +17,13 @@ WA.onInit().then(() => {
 
 
     WA.room.area.onEnter('phrase01').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase01Popup", "Hi", []);
+        currentPopup = WA.ui.openPopup("phrase01Popup", "Hello", []);
     })
 
     WA.room.area.onLeave('phrase01').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase02').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi youngster", []);
+        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi", []);
     })
 
     WA.room.area.onLeave('phrase02').subscribe(closePopup);
