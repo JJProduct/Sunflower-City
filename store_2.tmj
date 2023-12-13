@@ -1881,11 +1881,11 @@
         {
          "columns":28,
          "firstgid":3127,
-         "image":"tilesets\/runway_2-2.jpg",
+         "image":"tilesets\/runway_2.jpg",
          "imageheight":1312,
          "imagewidth":896,
          "margin":0,
-         "name":"runway_2-2",
+         "name":"runway_2",
          "spacing":0,
          "tilecount":1148,
          "tileheight":32,
