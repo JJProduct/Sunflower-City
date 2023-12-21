@@ -674,23 +674,6 @@
                 {
                  "class":"area",
                  "height":96,
-                 "id":73,
-                 "name":"from-Tutorial",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":65.3333,
-                 "x":800,
-                 "y":480
-                }, 
-                {
-                 "class":"area",
-                 "height":96,
                  "id":74,
                  "name":"from-Tutorial",
                  "properties":[
@@ -702,8 +685,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":65.3333,
-                 "x":352,
-                 "y":480
+                 "x":96,
+                 "y":542.666666666667
                 }, 
                 {
                  "class":"area",
@@ -738,6 +721,159 @@
                  "width":128,
                  "x":320,
                  "y":768
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":77,
+                 "name":"to-recycle",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"recycle.tmj#from-street"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":492,
+                 "y":414.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":78,
+                 "name":"to-recycle",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"recycle.tmj#from-street"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":658.666666666667,
+                 "y":415.333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":79,
+                 "name":"from-recycle",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":65.3333,
+                 "x":579.33335,
+                 "y":544.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":80,
+                 "name":"from-store",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":65.3333,
+                 "x":897.33335,
+                 "y":542.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":81,
+                 "name":"to-bistro",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"bistro.tmj#from-street"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":1638,
+                 "y":345.333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":82,
+                 "name":"to-bistro",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"bistro.tmj#from-street"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":1456.66666666667,
+                 "y":338.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":83,
+                 "name":"to-store",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"store.tmj#from-street"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":898.666666666667,
+                 "y":411.333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":64,
+                 "id":84,
+                 "name":"to-store",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"store.tmj#from-street"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":1058,
+                 "y":410
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":85,
+                 "name":"from-bistro",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":65.3333,
+                 "x":1721.33335,
+                 "y":475.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -842,7 +978,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":77,
+ "nextobjectid":86,
  "orientation":"orthogonal",
  "properties":[
         {
