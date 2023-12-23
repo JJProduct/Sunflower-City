@@ -756,26 +756,9 @@
                 }, 
                 {
                  "class":"area",
-                 "height":27.6666666666666,
-                 "id":18,
-                 "name":"to-recycle",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/office#from-tutorial"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":119.333333333333,
-                 "x":1671.36916578896,
-                 "y":938.824316704435
-                }, 
-                {
-                 "class":"area",
-                 "height":64,
+                 "height":125.333333333333,
                  "id":19,
-                 "name":"from-recycle",
+                 "name":"from-street",
                  "properties":[
                         {
                          "name":"start",
@@ -784,9 +767,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":128,
-                 "x":1660,
-                 "y":820.666666666666
+                 "width":92,
+                 "x":1379,
+                 "y":863.333333333333
                 }, 
                 {
                  "class":"area",
@@ -1151,8 +1134,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":0,
-                 "x":1552,
-                 "y":755
+                 "x":1516,
+                 "y":803
                 }, 
                 {
                  "class":"variable",

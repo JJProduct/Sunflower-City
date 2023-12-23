@@ -1479,7 +1479,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":32,
+                 "height":46,
                  "id":107,
                  "name":"to-street",
                  "properties":[
@@ -1496,7 +1496,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":32,
+                 "height":47.3333333333333,
                  "id":108,
                  "name":"to-street",
                  "properties":[
@@ -1530,7 +1530,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
