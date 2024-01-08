@@ -17,44 +17,44 @@ WA.onInit().then(() => {
 
 
     WA.room.area.onEnter('phrase01').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase01Popup", "Hello", []);
+        currentPopup = WA.ui.openPopup("phrase01Popup", "Wow, there is a sale today! No, there is no such thing as too many clothing!", []);
     })
 
     WA.room.area.onLeave('phrase01').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase02').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi", []);
+        currentPopup = WA.ui.openPopup("phrase02Popup", "HHmm... I wonder which shoe size Mina wears?", []);
     })
 
     WA.room.area.onLeave('phrase02').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase03').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase03Popup", "Hmmm", []);
+        currentPopup = WA.ui.openPopup("phrase03Popup", "Sunshine City Mayor is planning to impose carbon taxes! What a shame, leather products are going to spike up in price...", []);
     })
 
     WA.room.area.onLeave('phrase03').subscribe(closePopup);
 
 
     WA.room.area.onEnter('phrase04').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase04Popup", "Oh, hi there..", []);
+        currentPopup = WA.ui.openPopup("phrase04Popup", "Welcome to Sunflower City’s Boutique! We sell only the best quality clothing around!", []);
     })
 
     WA.room.area.onLeave('phrase04').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase05').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase05Popup", "Hello, how are you?", []);
+        currentPopup = WA.ui.openPopup("phrase05Popup", "I really like the feel of cotton, but my friends told me that hemp is better for the environment...", []);
     })
 
     WA.room.area.onLeave('phrase05').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase06').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase06Popup", "Hello!", []);
+        currentPopup = WA.ui.openPopup("phrase06Popup", "Thank you for visiting! Enjoy your time here!", []);
     })
 
     WA.room.area.onLeave('phrase06').subscribe(closePopup);
 
     WA.room.area.onEnter('phrase07').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase07Popup", "Well, hello youngster", []);
+        currentPopup = WA.ui.openPopup("phrase07Popup", "I love thrifting! Not only are the thrifted clothing cheaper, they are also better for the environment!", []);
     })
 
     WA.room.area.onLeave('phrase07').subscribe(closePopup);

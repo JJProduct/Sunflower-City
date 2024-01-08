@@ -704,7 +704,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":68,
                  "name":"my_door2",
@@ -736,13 +735,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":716.670333333333,
                  "y":1092.99666666667
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":69,
                  "name":"my_door",
@@ -774,13 +773,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":370,
                  "y":1102
                 }, 
                 {
-                 "class":"area",
                  "height":44.4865,
                  "id":70,
                  "name":"External_game",
@@ -806,13 +805,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":68,
                  "x":176.666666666667,
                  "y":128.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":45.1531666666667,
                  "id":71,
                  "name":"External_game",
@@ -838,13 +837,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":270,
                  "y":128.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":46.4865,
                  "id":72,
                  "name":"External_game",
@@ -870,13 +869,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":60,
                  "x":371.333333333333,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":45.1531666666667,
                  "id":74,
                  "name":"External_game",
@@ -902,13 +901,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":462,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":46.4865,
                  "id":75,
                  "name":"External_game",
@@ -934,13 +933,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":561.333333333333,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":45.1531666666667,
                  "id":77,
                  "name":"External_game",
@@ -966,13 +965,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":656.666666666667,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":44.4865,
                  "id":78,
                  "name":"External_game",
@@ -998,13 +997,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":751.333333333333,
                  "y":128.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":47.8198333333333,
                  "id":79,
                  "name":"External_game",
@@ -1030,13 +1029,13 @@
                          "value":"Press 'Space' to explore your outfits!"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":72,
                  "x":839.333333333333,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":159,
                  "id":80,
                  "name":"Picture 01",
@@ -1057,13 +1056,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":197,
                  "x":206,
                  "y":224
                 }, 
                 {
-                 "class":"area",
                  "height":131,
                  "id":82,
                  "name":"Picture 01",
@@ -1084,13 +1083,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":143,
                  "x":705,
                  "y":224
                 }, 
                 {
-                 "class":"area",
                  "height":171.666666666667,
                  "id":83,
                  "name":"Picture 01",
@@ -1111,13 +1110,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192.666666666667,
                  "x":223.333333333333,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":131,
                  "id":84,
                  "name":"Picture 01",
@@ -1138,13 +1137,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":144.666666666667,
                  "x":706,
                  "y":446
                 }, 
                 {
-                 "class":"area",
                  "height":192,
                  "id":85,
                  "name":"Picture 01",
@@ -1165,13 +1164,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":167,
                  "x":461,
                  "y":320
                 }, 
                 {
-                 "class":"area",
                  "height":130,
                  "id":86,
                  "name":"Picture 01",
@@ -1192,41 +1191,14 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":183,
                  "x":586,
                  "y":703
                 }, 
                 {
-                 "class":"area",
-                 "height":955.20535714286,
-                 "id":87,
-                 "name":"Picture 01",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"Picture 01.png"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to get information"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":79.6666666666667,
-                 "x":909.333333333333,
-                 "y":132.397321428571
-                }, 
-                {
-                 "class":"area",
-                 "height":954.543333333334,
+                 "height":160.363126631492,
                  "id":88,
                  "name":"Picture 01",
                  "properties":[
@@ -1246,13 +1218,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":76.6666666666667,
-                 "x":101.5,
-                 "y":132.395
+                 "x":97.1800705760861,
+                 "y":624.661919006563
                 }, 
                 {
-                 "class":"area",
                  "height":159,
                  "id":89,
                  "name":"Picture 01",
@@ -1273,13 +1245,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":333,
                  "x":369,
                  "y":1024.5
                 }, 
                 {
-                 "class":"area",
                  "height":126,
                  "id":90,
                  "name":"Picture 01",
@@ -1300,168 +1272,167 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":191,
                  "x":319,
                  "y":704
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":91,
                  "name":"phrase01",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":224.5,
                  "y":545.5835
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":92,
                  "name":"phrase01Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":179,
                  "y":453.4165
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":93,
                  "name":"phrase02",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":477.166666666667,
                  "y":480.750166666667
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":94,
                  "name":"phrase02Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":431.666666666667,
                  "y":388.583166666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":95,
                  "name":"phrase03",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":672.5,
                  "y":224.0835
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":96,
                  "name":"phrase03Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":627,
                  "y":131.9165
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":97,
                  "name":"phrase04",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":286.5,
                  "y":830.750166666667
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":98,
                  "name":"phrase04Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":241,
                  "y":738.583166666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":99,
                  "name":"phrase05",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":128.5,
                  "y":864.0835
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":100,
                  "name":"phrase05Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":97.6666666666667,
                  "y":771.249833333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":101,
                  "name":"phrase06",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":734.5,
                  "y":895.416833333333
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":102,
                  "name":"phrase06Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":689,
                  "y":803.249833333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":103,
                  "name":"phrase07",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":864.5,
                  "y":770.0835
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":104,
                  "name":"phrase07Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":819,
                  "y":677.9165
-                },
-            
+                }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":106,
                  "name":"from-street",
@@ -1472,13 +1443,14 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":192,
                  "y":960
-                }, 
+                },
+            
                 {
-                 "class":"area",
                  "height":46,
                  "id":107,
                  "name":"to-street",
@@ -1489,13 +1461,13 @@
                          "value":"street.tmj#from-store"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192,
                  "x":736,
                  "y":1184
                 }, 
                 {
-                 "class":"area",
                  "height":47.3333333333333,
                  "id":108,
                  "name":"to-street",
@@ -1506,13 +1478,13 @@
                          "value":"street.tmj#from-store"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192,
                  "x":160,
                  "y":1184
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":109,
                  "name":"from-street",
@@ -1523,10 +1495,308 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":769.333333333333,
                  "y":960
+                }, 
+                {
+                 "height":153.342168685273,
+                 "id":110,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":95.0701957258206,
+                 "y":947.552191065473
+                }, 
+                {
+                 "height":160.363,
+                 "id":111,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":95.9478506319115,
+                 "y":786.063892311743
+                }, 
+                {
+                 "height":179.671407934,
+                 "id":112,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":96.8255055380024,
+                 "y":443.778478936282
+                }, 
+                {
+                 "height":174.405478497455,
+                 "id":113,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":95.9478506319115,
+                 "y":268.247497718097
+                }, 
+                {
+                 "height":174.405,
+                 "id":114,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":97.7031604440934,
+                 "y":91.8391008425488
+                }, 
+                {
+                 "height":160.363,
+                 "id":115,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":906.816728953835,
+                 "y":623.345476329647
+                }, 
+                {
+                 "height":153.342,
+                 "id":116,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":904.706828953835,
+                 "y":946.235476329647
+                }, 
+                {
+                 "height":160.363,
+                 "id":117,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":905.584528953835,
+                 "y":784.747476329647
+                }, 
+                {
+                 "height":179.671,
+                 "id":118,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":906.462128953835,
+                 "y":442.461476329647
+                }, 
+                {
+                 "height":174.405,
+                 "id":119,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":905.584528953835,
+                 "y":266.930476329647
+                }, 
+                {
+                 "height":174.405,
+                 "id":120,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":907.339828953835,
+                 "y":90.5225763296473
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1649,7 +1919,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":110,
+ "nextobjectid":121,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1675,10 +1945,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/runway.ts"
+         "value":"src\/store.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1880,6 +2150,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":34
 }

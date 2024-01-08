@@ -12,7 +12,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 749, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -500,7 +500,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":68,
                  "name":"my_door2",
@@ -532,13 +531,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":874.670333333333,
                  "y":580.33
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":69,
                  "name":"my_door",
@@ -570,13 +569,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":40,
                  "y":582.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":70,
                  "name":"Info",
@@ -584,7 +583,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-6.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-6.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -597,13 +596,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.8333333333333,
                  "x":606.833333333333,
                  "y":284.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":71,
                  "name":"Info",
@@ -611,7 +610,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-5.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-5.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -624,13 +623,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":673.916666666667,
                  "y":285.416666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":72,
                  "name":"Info",
@@ -638,7 +637,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-7.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-7.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -651,13 +650,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":55.5,
                  "x":627.25,
                  "y":208.083333333333
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":73,
                  "name":"Info",
@@ -665,7 +664,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-3.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-3.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -678,13 +677,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":428.25,
                  "y":179.416666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":74,
                  "name":"Info",
@@ -692,7 +691,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-4.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-4.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -705,13 +704,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":483.75,
                  "y":179.416666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":75,
                  "name":"Info",
@@ -719,7 +718,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-1.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-1.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -732,13 +731,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":482.916666666667,
                  "y":257.916666666667
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":76,
                  "name":"Info",
@@ -746,7 +745,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-2.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-2.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -759,13 +758,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":427.416666666667,
                  "y":258.416666666667
                 }, 
                 {
-                 "class":"area",
                  "height":46,
                  "id":77,
                  "name":"Info",
@@ -773,7 +772,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-9.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-9.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -786,13 +785,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":619.75,
                  "y":367.25
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":78,
                  "name":"Info",
@@ -800,7 +799,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-8.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-8.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -813,13 +812,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":674.25,
                  "y":367.75
                 }, 
                 {
-                 "class":"area",
                  "height":57.5,
                  "id":79,
                  "name":"Info",
@@ -827,7 +826,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-11.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-11.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -840,13 +839,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":672.25,
                  "y":454.25
                 }, 
                 {
-                 "class":"area",
                  "height":43,
                  "id":80,
                  "name":"Info",
@@ -854,7 +853,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-12.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-12.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -867,13 +866,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":51.5,
                  "x":618.75,
                  "y":468.75
                 }, 
                 {
-                 "class":"area",
                  "height":50.5,
                  "id":81,
                  "name":"Info",
@@ -881,7 +880,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"JJ_Bistro_character_cards-10.png"
+                         "value":"images\/Bistro\/JJ_Bistro_character_cards-10.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -894,13 +893,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":57.5,
                  "x":584.75,
                  "y":415.25
                 }, 
                 {
-                 "class":"area",
                  "height":93.833333333333,
                  "id":82,
                  "name":"spreadsheet",
@@ -926,13 +925,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94,
                  "x":321.333333333333,
                  "y":160.166666666667
                 }, 
                 {
-                 "class":"area",
                  "height":64.833,
                  "id":83,
                  "name":"spreadsheet",
@@ -958,13 +957,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":67.3333333333333,
                  "x":253,
                  "y":222.8335
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":84,
                  "name":"from-street",
@@ -975,13 +974,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":128,
                  "y":640
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":85,
                  "name":"from-street",
@@ -992,13 +991,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":672,
                  "y":640
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":86,
                  "name":"to-street",
@@ -1009,13 +1008,13 @@
                          "value":"street.tmj#from-bistro"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":32,
                  "x":896,
                  "y":640
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":87,
                  "name":"to-street",
@@ -1026,6 +1025,7 @@
                          "value":"street.tmj#from-bistro"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":32,
                  "x":0,
@@ -1144,10 +1144,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"src\/bistro.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1362,6 +1362,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":32
 }

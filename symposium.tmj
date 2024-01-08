@@ -620,7 +620,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":68,
                  "name":"my_door2",
@@ -652,13 +651,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1843.67033333333,
                  "y":822.663333333333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":69,
                  "name":"my_door",
@@ -690,13 +689,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":762,
                  "y":917.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":73,
                  "name":"from-street",
@@ -707,13 +706,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3333,
                  "x":1024,
                  "y":770.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":74,
                  "name":"from-street",
@@ -724,13 +723,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3333,
                  "x":798.666666666667,
                  "y":769.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":66,
                  "id":77,
                  "name":"to-street",
@@ -741,6 +740,7 @@
                          "value":"street.tmj#from-symp"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":416,
                  "x":736,
@@ -1135,10 +1135,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"src\/symposium.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1353,6 +1353,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":59
 }

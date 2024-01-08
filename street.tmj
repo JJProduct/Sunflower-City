@@ -554,7 +554,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":96,
                  "id":74,
                  "name":"from-Tutorial",
@@ -565,13 +564,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.6666333333333,
                  "x":224.666666666667,
                  "y":672
                 }, 
                 {
-                 "class":"area",
                  "height":63.3333333333333,
                  "id":77,
                  "name":"to-recycle",
@@ -582,13 +581,13 @@
                          "value":"recycle.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":73.3333333333334,
                  "x":615.333333333334,
                  "y":512.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":59.3333333333333,
                  "id":78,
                  "name":"to-recycle",
@@ -599,13 +598,13 @@
                          "value":"recycle.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":67.3333333333335,
                  "x":832.000000000001,
                  "y":514.666666666666
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":79,
                  "name":"from-recycle",
@@ -616,13 +615,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":91.9999666666666,
                  "x":802.666683333333,
                  "y":674.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":128,
                  "id":80,
                  "name":"from-store",
@@ -633,13 +632,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3333,
                  "x":1153.33335,
                  "y":639.333333333334
                 }, 
                 {
-                 "class":"area",
                  "height":52.6666666666667,
                  "id":81,
                  "name":"to-bistro",
@@ -650,13 +649,13 @@
                          "value":"bistro.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":72,
                  "x":2046,
                  "y":427.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":50.6666666666666,
                  "id":82,
                  "name":"to-bistro",
@@ -667,13 +666,13 @@
                          "value":"bistro.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":54.666666666667,
                  "x":1840,
                  "y":429.333333333334
                 }, 
                 {
-                 "class":"area",
                  "height":61.9999999999999,
                  "id":83,
                  "name":"to-store",
@@ -684,13 +683,13 @@
                          "value":"store.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.6666666666667,
                  "x":1120.66666666667,
                  "y":496.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":60.6666666666668,
                  "id":84,
                  "name":"to-store",
@@ -701,13 +700,13 @@
                          "value":"store.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":84.6666666666667,
                  "x":1322,
                  "y":495.999999999999
                 }, 
                 {
-                 "class":"area",
                  "height":96.666666666667,
                  "id":85,
                  "name":"from-bistro",
@@ -718,13 +717,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.9999833333334,
                  "x":1952.00001666667,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":51.3333,
                  "id":86,
                  "name":"to-tutorial",
@@ -735,13 +734,13 @@
                          "value":"map.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":73.3333,
                  "x":184.000016666667,
                  "y":490.33335
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":87,
                  "name":"my_door",
@@ -773,13 +772,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2253.33333333333,
                  "y":676.666666666667
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":88,
                  "name":"my_door2",
@@ -811,13 +810,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2258.83333333333,
                  "y":882
                 }, 
                 {
-                 "class":"area",
                  "height":62.6667,
                  "id":89,
                  "name":"from-symp",
@@ -828,6 +827,7 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":134,
                  "x":1952,
@@ -845,6 +845,7 @@
                          "value":"clean.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":116.833333333333,
                  "x":2181.83333333333,
@@ -862,6 +863,7 @@
                          "value":"dirty.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":115.666666666667,
                  "x":2183.16666666667,
@@ -998,10 +1000,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"src\/street.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1203,6 +1205,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":72
 }
