@@ -1013,117 +1013,6 @@
                 }, 
                 {
                  "height":59.8336,
-                 "id":101,
-                 "name":"location01Popup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":190,
-                 "x":786.481481481482,
-                 "y":259.731137566138
-                }, 
-                {
-                 "height":96,
-                 "id":102,
-                 "name":"location01",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":63.6375661375662,
-                 "x":862.756915343915,
-                 "y":319.401137566138
-                }, 
-                {
-                 "height":59.8336,
-                 "id":103,
-                 "name":"location02Popup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":190,
-                 "x":786.481481481482,
-                 "y":356.027433862434
-                }, 
-                {
-                 "height":96,
-                 "id":104,
-                 "name":"location02",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":63.6376,
-                 "x":862.757481481482,
-                 "y":415.697433862434
-                }, 
-                {
-                 "height":59.8336,
-                 "id":105,
-                 "name":"location03Popup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":190,
-                 "x":212.936507936508,
-                 "y":207.879285714286
-                }, 
-                {
-                 "height":96,
-                 "id":106,
-                 "name":"location03",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":63.6376,
-                 "x":289.212507936508,
-                 "y":267.549285714286
-                }, 
-                {
-                 "height":59.8336,
-                 "id":107,
-                 "name":"location04Popup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":190,
-                 "x":212.936507936508,
-                 "y":303.117380952381
-                },
-            
-                {
-                 "height":96,
-                 "id":108,
-                 "name":"location04",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":63.6376,
-                 "x":289.212507936508,
-                 "y":362.787380952381
-                }, 
-                {
-                 "height":59.8336,
-                 "id":109,
-                 "name":"location05Popup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":190,
-                 "x":211.878306878307,
-                 "y":399.413677248677
-                }, 
-                {
-                 "height":96,
-                 "id":110,
-                 "name":"location05",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":63.6376,
-                 "x":288.154306878307,
-                 "y":459.083677248677
-                }, 
-                {
-                 "height":59.8336,
                  "id":111,
                  "name":"phrase13Popup",
                  "rotation":0,
@@ -1143,6 +1032,141 @@
                  "width":97.5,
                  "x":988.998139213469,
                  "y":540.950466767182
+                }, 
+                {
+                 "height":94.4507643085674,
+                 "id":113,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":54.3117667970139,
+                 "x":872.595271951653,
+                 "y":426.290437255599
+                }, 
+                {
+                 "height":94.4508,
+                 "id":114,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":54.3118,
+                 "x":872.950747707074,
+                 "y":331.018467756843
+                }, 
+                {
+                 "height":287.838642161394,
+                 "id":115,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":54.3118,
+                 "x":288.521312939922,
+                 "y":270.584767081408
+                }, 
+                {
+                 "height":88.0519375755422,
+                 "id":118,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":118.300424244579,
+                 "x":806.82916932101,
+                 "y":230.769623107003
+                }, 
+                {
+                 "height":80.9421,
+                 "id":119,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":57.1557,
+                 "x":870.817812993246,
+                 "y":516.940965641664
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1243,7 +1267,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":113,
+ "nextobjectid":120,
  "orientation":"orthogonal",
  "properties":[
         {

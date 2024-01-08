@@ -1198,34 +1198,7 @@
                  "y":703
                 }, 
                 {
-                 "height":955.20535714286,
-                 "id":87,
-                 "name":"Picture 01",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"Picture 01.png"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to get information"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":79.6666666666667,
-                 "x":909.333333333333,
-                 "y":132.397321428571
-                }, 
-                {
-                 "height":954.543333333334,
+                 "height":160.363126631492,
                  "id":88,
                  "name":"Picture 01",
                  "properties":[
@@ -1248,8 +1221,8 @@
                  "type":"area",
                  "visible":true,
                  "width":76.6666666666667,
-                 "x":101.5,
-                 "y":132.395
+                 "x":97.1800705760861,
+                 "y":624.661919006563
                 }, 
                 {
                  "height":159,
@@ -1458,8 +1431,7 @@
                  "width":190,
                  "x":819,
                  "y":677.9165
-                },
-            
+                }, 
                 {
                  "height":64,
                  "id":106,
@@ -1476,7 +1448,8 @@
                  "width":128,
                  "x":192,
                  "y":960
-                }, 
+                },
+            
                 {
                  "height":46,
                  "id":107,
@@ -1527,6 +1500,303 @@
                  "width":128,
                  "x":769.333333333333,
                  "y":960
+                }, 
+                {
+                 "height":153.342168685273,
+                 "id":110,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":95.0701957258206,
+                 "y":947.552191065473
+                }, 
+                {
+                 "height":160.363,
+                 "id":111,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":95.9478506319115,
+                 "y":786.063892311743
+                }, 
+                {
+                 "height":179.671407934,
+                 "id":112,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":96.8255055380024,
+                 "y":443.778478936282
+                }, 
+                {
+                 "height":174.405478497455,
+                 "id":113,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":95.9478506319115,
+                 "y":268.247497718097
+                }, 
+                {
+                 "height":174.405,
+                 "id":114,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":97.7031604440934,
+                 "y":91.8391008425488
+                }, 
+                {
+                 "height":160.363,
+                 "id":115,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":906.816728953835,
+                 "y":623.345476329647
+                }, 
+                {
+                 "height":153.342,
+                 "id":116,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":904.706828953835,
+                 "y":946.235476329647
+                }, 
+                {
+                 "height":160.363,
+                 "id":117,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":905.584528953835,
+                 "y":784.747476329647
+                }, 
+                {
+                 "height":179.671,
+                 "id":118,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":906.462128953835,
+                 "y":442.461476329647
+                }, 
+                {
+                 "height":174.405,
+                 "id":119,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":905.584528953835,
+                 "y":266.930476329647
+                }, 
+                {
+                 "height":174.405,
+                 "id":120,
+                 "name":"Picture 01",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Picture 01.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76.6667,
+                 "x":907.339828953835,
+                 "y":90.5225763296473
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1649,7 +1919,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":110,
+ "nextobjectid":121,
  "orientation":"orthogonal",
  "properties":[
         {
