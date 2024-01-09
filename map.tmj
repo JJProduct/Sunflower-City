@@ -1184,7 +1184,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-Tutorial"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-Tutorial"
                         }],
                  "rotation":0,
                  "visible":true,

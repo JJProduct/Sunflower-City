@@ -1486,7 +1486,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-store"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-store"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1503,7 +1503,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-store"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-store"
                         }],
                  "rotation":0,
                  "visible":true,

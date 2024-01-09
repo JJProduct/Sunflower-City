@@ -722,7 +722,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-recycle"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-recycle"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -739,7 +739,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-recycle"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-recycle"
                         }],
                  "rotation":0,
                  "visible":true,

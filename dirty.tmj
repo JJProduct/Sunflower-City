@@ -634,7 +634,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"symposium.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/symposium#from-street"
                         }],
                  "rotation":0,
                  "visible":true,

@@ -622,44 +622,6 @@
                 {
                  "class":"variable",
                  "height":0,
-                 "id":68,
-                 "name":"my_door2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"Door2_closed"
-                        }, 
-                        {
-                         "name":"default",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"door",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"Door2_opened"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":1843.67033333333,
-                 "y":822.663333333333
-                }, 
-                {
-                 "class":"variable",
-                 "height":0,
                  "id":69,
                  "name":"my_door",
                  "point":true,
@@ -738,7 +700,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-symp"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-symp"
                         }],
                  "rotation":0,
                  "visible":true,

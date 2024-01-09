@@ -1006,7 +1006,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-bistro"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-bistro"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1023,7 +1023,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-bistro"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/street#from-bistro"
                         }],
                  "rotation":0,
                  "visible":true,

@@ -579,7 +579,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"recycle.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/recycle#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -596,7 +596,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"recycle.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/recycle#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -647,7 +647,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bistro.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/bistro#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -664,7 +664,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bistro.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/bistro#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -681,7 +681,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"store.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/store#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -698,7 +698,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"store.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/store#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -732,7 +732,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/tutorial#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -842,7 +842,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"clean.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/clean#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -859,7 +859,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"dirty.tmj#from-street"
+                         "value":"\/@\/jalan-journey\/environment-&-sustainability-world-master\/dirty#from-street"
                         }],
                  "rotation":0,
                  "visible":true,
